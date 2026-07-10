@@ -14,7 +14,7 @@ Project Akhir Praktikum Data Mining 2026 — aplikasi web interaktif berbasis **
 
 Aplikasi ini memungkinkan pengguna untuk meng-upload dataset penjualan mobil bekas (.csv), mengeksplorasi data secara visual, melatih model regresi untuk memprediksi harga mobil, mengevaluasi performa model, dan mencoba prediksi harga secara langsung berdasarkan spesifikasi kendaraan yang diinput.
 
-## 📊 Dataset
+##  Dataset
 
 **Automotive Price Prediction Dataset** (Kaggle)
 🔗 https://www.kaggle.com/datasets/metawave/vehicle-price-prediction
@@ -24,7 +24,7 @@ Aplikasi ini memungkinkan pengguna untuk meng-upload dataset penjualan mobil bek
 
 > File dataset asli **tidak disertakan** di repo ini karena ukurannya besar. Silakan download langsung dari link Kaggle di atas, lalu upload melalui aplikasi.
 
-## 🤖 Algoritma
+##  Algoritma
 
 - **Regresi Linier** (Linear Regression) — algoritma utama
 - **Decision Tree Regressor** — sebagai model pembanding
@@ -40,7 +40,7 @@ Evaluasi menggunakan metrik **R² (koefisien determinasi)**, **MAE (Mean Absolut
 - 📉 Evaluasi model: R², MAE, RMSE, Actual vs Predicted, Residual Plot, Koefisien Regresi
 - 🔍 Uji coba prediksi harga dengan input manual
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3
 - [Streamlit](https://streamlit.io/) — antarmuka web
@@ -48,7 +48,7 @@ Evaluasi menggunakan metrik **R² (koefisien determinasi)**, **MAE (Mean Absolut
 - pandas, numpy — pengolahan data
 - matplotlib, seaborn — visualisasi
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 1. **Clone repository ini**
    ```bash
